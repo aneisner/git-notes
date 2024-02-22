@@ -10,4 +10,6 @@
 
 `git branch -D <NAME>` - Lokalen Branch löschen welcher noch nicht gepusht oder in einen anderen Branch gemerget ist 
 
+`git blame <FILE>` - Wer und was wurde in einem File verändert
+
 
