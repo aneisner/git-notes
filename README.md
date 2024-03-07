@@ -8,8 +8,8 @@
 
 `git checkout -b <NAME>` - Erstellt neuen Branch auf dem aktuellen lokalen HEAD und wechselt auf diesen
 
-`git branch -D <NAME>` - Lokalen Branch löschen welcher noch nicht gepusht oder in einen anderen Branch gemerget ist 
+`git branch -D <NAME>` - Lokalen Branch löschen welcher noch nicht gepusht oder in einen anderen Branch gemerget ist
 
 `git blame <FILE>` - Wer und was wurde in einem File verändert
 
-
+`git reset --hard HEAD~1` - Entfernt einen Commit vom aktuellen ausgecheckten HEAD bzw. Branch
