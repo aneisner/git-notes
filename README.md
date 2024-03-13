@@ -13,3 +13,5 @@
 `git blame <FILE>` - Wer und was wurde in einem File verändert
 
 `git reset --hard HEAD~1` - Entfernt einen Commit vom aktuellen ausgecheckten HEAD bzw. Branch
+
+`git show` - Einen kompletten Commit anzeigen
